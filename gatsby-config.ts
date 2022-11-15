@@ -11,4 +11,8 @@ const config: GatsbyConfig = {
   plugins: [],
 }
 
+module.exports = {
+  pathPrefix: "/tuckersub",
+}
+
 export default config
